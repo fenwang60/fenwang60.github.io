@@ -1,4 +1,4 @@
-## Welcome to NotesSec3
+## Welcome to NoteSec3
 
 This is a security note app. 
 
